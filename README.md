@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntoninoRando
 - 👀 I’m interested in Game Design
 - 🌱 I’m currently learning Computer Science at La Sapienza University of Rome
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Game Development and Design
 - 📫 How to reach me antonino.rando.2003@gmail.com / +39 327 594 8192
 
 <!---
